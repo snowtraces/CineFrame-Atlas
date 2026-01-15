@@ -11,7 +11,7 @@ This project focuses on analyzing and documenting the cinematic composition of W
 ## Project Status
 - [x] **Initialization**: Movie metadata and director style documented.
 - [x] **Quantity Definition**: Set to **3** composition diagrams.
-- [ ] **Analysis & Logic**: Deep analysis and structural geometry definitions (`/diagram`).
+- [x] **Analysis & Logic**: Deep analysis and structural geometry definitions (`/diagram`).
 - [ ] **Rendering**: SVG diagram generation (`/render`).
 
 ## Directory Structure
