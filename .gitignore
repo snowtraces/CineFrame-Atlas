@@ -5,7 +5,7 @@
 !*/
 
 # Allow readme files
-!readme.md
+!./readme.md
 
 # Allow this .gitignore file
 !.gitignore
